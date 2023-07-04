@@ -1,24 +1,19 @@
 # Hello, I'm Tyler! 👋
 
-<!-- Add a catchy or informative headline about yourself -->
+## - Currently Looking for Opportunities! -
 
 ## About Me
+- [house and tree emoji] Native of the Metro Detroit Area
+- Recently graduated with a CS major at Wayne State University in Detroit, Michigan.
+- I'm the first in my family to pursue a career in the tech industry.
+- I'm always looking to connect and contribute, so feel free to reach out to discuss anything related!
 
-<!-- Write a brief introduction about yourself, highlighting your background, interests, and areas of expertise -->
+## My Interests (including, but not limited to:)
 
-## My Interests
-
-<!-- List your areas of interest or specialization -->
-- Databases
-- Front End {css html flutter}
-- Back End
-- Mobile Apps
-
-## Personal Interests
-
-- 🏀 NBA
-- ⚾️ MLB
-- 🎮 Gaming
+- Databases {Firebase, Oracle, MySQL}
+- Mobile Apps {flutter, android, iOS}
+- Front End {css, html, javascript}
+- Back End {java, c++, c, Kotlin, python, php}
 
 ## Get in Touch
 
