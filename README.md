@@ -3,17 +3,17 @@
 ## - Currently Looking for Opportunities! -
 
 ## About Me
-- [house and tree emoji] Native of the Metro Detroit Area
-- Recently graduated with a CS major at Wayne State University in Detroit, Michigan.
-- I'm the first in my family to pursue a career in the tech industry.
-- I'm always looking to connect and contribute, so feel free to reach out to discuss anything related!
+- 🏡 Native of the Metro Detroit Area
+- 🎓 Recently graduated with a CS major at Wayne State University in Detroit, Michigan.
+- 🥇 I'm the first in my family to pursue a career in the tech industry.
+- 🤝 I'm always looking to connect and contribute, so feel free to reach out to discuss anything related!
 
 ## My Interests (including, but not limited to:)
 
-- Databases {Firebase, Oracle, MySQL}
-- Mobile Apps {flutter, android, iOS}
-- Front End {css, html, javascript}
-- Back End {java, c++, c, Kotlin, python, php}
+- ![Database icon](database_icon.png) Databases: Firebase, Oracle, MySQL
+- ![Mobile app icon](mobile_app.png) Mobile Apps: Flutter, Android, iOS
+- ![Front end icon](front_end_icon.png) Front End: JavaScript, HTML, CSS,
+- ![Back end icon](back_end_icon.png) Back End: Java, C++, C, Kotlin, Python, PHP
 
 ## Get in Touch
 
