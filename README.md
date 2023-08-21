@@ -10,10 +10,10 @@
 
 ## My Interests (including, but not limited to:)
 
-- ![Database icon](database_icon.png) Databases: Firebase, Oracle, MySQL
-- ![Mobile app icon](mobile_app.png) Mobile Apps: Flutter, Android, iOS
-- ![Front end icon](front_end_icon.png) Front End: JavaScript, HTML, CSS,
-- ![Back end icon](back_end_icon.png) Back End: Java, C++, C, Kotlin, Python, PHP
+![Database icon](database_icon.png) - Databases: Firebase, Oracle, MySQL
+![Mobile app icon](mobile_app.png) - Mobile Apps: Flutter, Android, iOS
+![Front end icon](front_end_icon.png) - Front End: JavaScript, HTML, CSS,
+![Back end icon](back_end_icon.png) - Back End: Java, C++, C, Kotlin, Python, PHP
 
 ## Get in Touch
 
