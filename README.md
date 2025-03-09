@@ -2,9 +2,9 @@
 
 ## Experienced in:
 - Databases: Firebase, Oracle, MySQL
-- Mobile Apps: Flutter, Android, iOS
-- Front End: JavaScript, HTML, CSS,
-- Back End: Java, C++, C, Kotlin, Python, PHP
+- Mobile Apps: iOS, Android, Flutter
+- Front End: JavaScript, HTML, CSS
+- Back End: Java, C++, Python, Kotlin, C
 
 ## Get in Touch
 - 📨 Email: [tylerjgroat@gmail.com](mailto:tylerjgroat@gmail.com)
